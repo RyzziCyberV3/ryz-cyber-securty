@@ -21,4 +21,4 @@ pkg install python git
 pip install requests beautifulsoup4
 git clone https://github.com/RyzziCyberV3/ryz-cyber-securty.git
 cd ryz-cyber-securty
-python ryz-siber.py
+python RyzSiber.py
