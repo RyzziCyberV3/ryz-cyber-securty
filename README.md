@@ -19,6 +19,6 @@ Alat pentesting web all-in-one untuk mendeteksi kerentanan keamanan.
 pkg update && pkg upgrade
 pkg install python git
 pip install requests beautifulsoup4
-git clone https://github.com/RyzziCyberV3/ryz-cyber-securty.git
+git clone https://github.com/RyzziCyberV3/ryz-siber-tools.git
 cd ryz-cyber-securty
 python RyzSiber.py
