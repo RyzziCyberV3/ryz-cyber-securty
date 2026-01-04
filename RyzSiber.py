@@ -23,9 +23,9 @@ def banner():
     print("  ██╔══██╗╚██╗ ██╔╝╚══███╔╝    ██╔════╝██║██╔══██╗██╔════╝██╔══██╗")
     print("  ██████╔╝ ╚████╔╝   ███╔╝     ███████╗██║██████╔╝█████╗  ██████╔╝")
     print("  ██╔══██╗  ╚██╔╝   ███╔╝      ╚════██║██║██╔══██╗██╔══╝  ██╔══██╗")
-    print("  ██║  ██║   ██║   ███████╗    ███████║██║██║  ██║███████╗██║  ██║")
-    print(f" ╚═╝  ╚═╝   ╚═╝   ╚══════╝    ╚══════╝╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ {bcolors.ENDC}")
-    print(f"{bcolors.BOLD}            NoxaXD Pentesting Toolkit v1.0{bcolors.ENDC}")
+    print("  ██║  ██║   ██║   ███████╗    ███████║██║██████║ ███████╗██║  ██║")
+    print(f" ╚═╝  ╚═╝   ╚═╝   ╚══════╝    ╚══════╝╚═╝╚════╝╚══════╝╚═╝  ╚═╝ {bcolors.ENDC}")
+    print(f"{bcolors.BOLD}            RYZ SIBER TOOLS v1.0 BY RyzziCyber{bcolors.ENDC}")
     print(f"{bcolors.BOLD}     Made to make it easier to find vulnerability{bcolors.ENDC}\n")
 
 def main_menu():
